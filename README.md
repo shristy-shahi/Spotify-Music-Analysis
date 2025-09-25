@@ -8,10 +8,14 @@ This project is an interactive dashboard that provides a comprehensive analysis 
 Power BI: The primary tool used for data visualization and dashboard creation.
 
 ---
+
+
 ##Data Source
 The data used for this analysis is sourced from Spotify's public API and includes detailed information on tracks, artists, and streaming statistics.
 
 ---
+
+
 ##Features & Highlights
 Overall Metrics: Displays key performance indicators like total streams, number of tracks, and average streams.
 
@@ -24,3 +28,5 @@ Daily Streaming Analysis: Presents a breakdown of streaming activity by day of t
 Interactive Filters: Enables users to filter data by track, date range, and artist for customized views and focused analysis.
 ---
 ##Screenshots
+
+https://github.com/shristy-shahi/Spotify-Music-Analysis/blob/main/Dashboard.png
