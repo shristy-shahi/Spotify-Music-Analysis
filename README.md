@@ -1,5 +1,3 @@
-Project Title
-
 # 🎶 Spotify Music Analysis
 
 📝 Project Description
